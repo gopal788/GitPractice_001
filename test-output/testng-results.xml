@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="9969" started-at="2022-07-03T14:59:42Z" finished-at="2022-07-03T14:59:51Z">
+  <suite name="Default suite" duration-ms="12098" started-at="2022-07-04T06:12:18Z" finished-at="2022-07-04T06:12:30Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="9969" started-at="2022-07-03T14:59:42Z" finished-at="2022-07-03T14:59:51Z">
+    <test name="Default test" duration-ms="12098" started-at="2022-07-04T06:12:18Z" finished-at="2022-07-04T06:12:30Z">
       <class name="Selenium_Demo.GitPractice.SampleScenario_01">
-        <test-method status="PASS" signature="TC01()[pri:0, instance:Selenium_Demo.GitPractice.SampleScenario_01@5d740a0f]" name="TC01" duration-ms="9948" started-at="2022-07-03T14:59:42Z" finished-at="2022-07-03T14:59:51Z">
+        <test-method status="PASS" signature="TC01()[pri:0, instance:Selenium_Demo.GitPractice.SampleScenario_01@3b2cf7ab]" name="TC01" duration-ms="12063" started-at="2022-07-04T06:12:18Z" finished-at="2022-07-04T06:12:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- TC01 -->
       </class> <!-- Selenium_Demo.GitPractice.SampleScenario_01 -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
